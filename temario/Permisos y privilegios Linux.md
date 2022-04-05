@@ -27,7 +27,7 @@ x = execute y es representado por el numero 1
 
 En el siguiente recuadro se muestra la explicación de estos permisos.
 
-![3](./imagenes/lsl2.PNG)
+![3](./imagenes/lsl3.PNG)
 
 - chmod
 
@@ -37,6 +37,6 @@ chmod 760 nombre del archivo
 
 En la pantalla muestro un ejemplo con uno de mis archivos
 
-![4](./imagenes/lsl2.PNG)
+![4](./imagenes/lsl4.PNG)
 
 Como pueden observar utilice el comando chmod y la combinacion de numeros para darle al archivo udemy, permisos para ser ejecutado por el usuario root, ya que no los tenia anteriormente, y esto puede ser tambien con el grupo y con otros usuarios del sistema.
